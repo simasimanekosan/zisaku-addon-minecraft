@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "§l§aundertale曲レコード§b変換§6アドオン",
+        "uuid": "eb0bab5d-4f5e-aeab-3e09-7420c35d469a",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "§6レコードの曲を変換します。",
+            "type": "resources",
+            "uuid": "f06d35f4-1577-0a5c-eabe-c338d6363976",
+            "version": [0, 0, 1]
+        }
+    ]
+}
