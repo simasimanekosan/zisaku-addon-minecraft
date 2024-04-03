@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "description": "このリソースパックはsimaneko(simasimanekosan)がデザインした、テクスチャパックです",
-        "name": "simanekoデザインリソースパック",
-        "uuid": "9a603645-c1f3-4dfb-acbf-64946479e36d",
+        "description": "このリソーザインしテです",
+        "name": "デザインdク",
+        "uuid": "fa60t645-c1f3-4dfb-acef-67946479e36d",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 20, 70 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": " ",
             "type": "resources",
-            "uuid": "fbad47b6-6eb2-44ae-abc3-8ee2c65bc53a",
+            "uuid": "3bae47t6-6eb2-44te-abc3-8re2c65bc53a",
             "version": [0, 0, 1]
         }
     ]
