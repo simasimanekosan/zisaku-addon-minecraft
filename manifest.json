@@ -3,7 +3,7 @@
     "header": {
         "description": "このリソーザインしテです",
         "name": "デザインdク",
-        "uuid": "fa60t645-c1f3-4dfb-acef-67946479e36d",
+        "uuid": "22770f80-6187-4c20-b86b-9bd20ee60518",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 20, 70 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": " ",
             "type": "resources",
-            "uuid": "3bae47t6-6eb2-44te-abc3-8re2c65bc53a",
+            "uuid": "331e8f64-92eb-4c5c-9027-5a3f83e35483",
             "version": [0, 0, 1]
         }
     ]
